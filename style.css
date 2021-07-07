@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 28px;
   font-weight: bold;
   color: #D76B6D;
   letter-spacing: 8px;
@@ -40,7 +40,7 @@ a:hover {
 }
 
 .container {
-  width: 500px;   /* This sets the width */
+  width: 700px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
